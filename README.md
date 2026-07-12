@@ -4,6 +4,10 @@ This project demonstrates how to build an **Object Localization** model using **
 
 The notebook walks through the complete deep learning workflow, including data preparation, image preprocessing, transfer learning, model training, and prediction of object locations.
 
+## Important
+
+### This project is designed to be compiled in `Google Colab`
+
 ---
 
 ## 📌 Features
